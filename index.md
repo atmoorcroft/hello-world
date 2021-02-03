@@ -9,6 +9,6 @@
 
 * I know a bit about markdown and GitHub Pages *
 
-#Ending Note
+# Ending Note
 
 Although I'm still a novice Im always improving!
