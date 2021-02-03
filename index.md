@@ -4,7 +4,7 @@
 ### This is a Short description about what I do
 
 - I go to University
-- I learn coding languages such as java, C, and C++
+- I learn coding languages such as Java, C, and C++
 - I play board games in the free time!
 
 *I know a bit about markdown and GitHub Pages*
