@@ -7,8 +7,8 @@
 - I learn coding languages such as java, C, and C++
 - I play board games in the free time!
 
-* I know a bit about markdown and GitHub Pages *
+*I know a bit about markdown and GitHub Pages*
 
-# Ending Note
+## Ending Note
 
 Although I'm still a novice Im always improving!
